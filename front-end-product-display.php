@@ -10,7 +10,7 @@
 	<script type="text/javascript" src="js/myjs.js"></script>
 	
 	<br><br><br>
-	
+	<img class = "center" src = "img/jbulogo.png" >
 	<h1 align="center"> JBU Online Store </h1>
 	
 	
